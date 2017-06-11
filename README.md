@@ -36,3 +36,7 @@ Design
 
 To run compile and run use command:
     ant run
+    
+    
+This project was done by:
+Feng Liu, Andres Cuevas, and Strahinja Trecakov
