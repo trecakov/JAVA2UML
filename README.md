@@ -33,3 +33,6 @@ Design
     passing our text file to Plantuml and yUML open source generator. The Plantuml and yUML generators are 
     handling our layout. Our software allows user to select where it wants to save the text and png file. 
     Moreover, we save a copy of it in the Java2UML directory.
+
+To run compile and run use command:
+    ant run
