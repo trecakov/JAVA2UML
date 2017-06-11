@@ -1,0 +1,7 @@
+Java2UML
+
+Version: 1.0
+(c) Copyright Java2UML contributors and others 2017.  
+All rights reserved. Java2UML and the Java2UML logo are 
+trademarks of the Java2UML Foundation, Inc. 
+The Java2UML logo cannot be altered without Java2UML's permission. 

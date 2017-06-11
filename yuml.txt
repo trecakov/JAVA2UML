@@ -1,0 +1,56 @@
+yUML FAQ
+
+What is yUML?
+
+yUML is an online tool for creating and publishing simple UML diagrams. It's makes it really easy for you to:
+
+Embed UML diagrams in blogs, emails and wikis.
+Post UML diagrams in forums and blog comments.
+Use directly within your web based bug tracking tool.
+Copy and paste UML diagrams into MS Word documents and Powerpoint presentations.
+Is it FREE?
+
+Yup! This site is a free service - enjoy!
+
+Can I buy a private copy?
+
+Universities, businesses and some analysts may want their own private installation of yUML on their own computers. We sell the source code and support on our business license page.
+
+Why should I use yUML?
+
+yUML saves you time. It's designed to for those that like to create small UML diagrams and sketches.
+
+Without yUML, creating a UML diagram might involve loading up a UML tool, creating a diagram, giving it a name, fiddling with layout, exporting it to bitmap, and then uploading it online somewhere. yUML doesn't make you do any of that.
+
+Why should I NOT use yUML?
+
+yUML is designed for light, back-of-napkin style UML usage. This won't suite every project. Desktop tools tend to offer more control over layout, more diagram types, fuller support for the UML specification etc. If you want all that stuff, we suggest taking a look at UMLet - a nifty free desktop tool.
+
+What types of yUML diagram are supported
+
+Right now class and use case diagrams are supported. Activity and State diagrams will come along shortly.
+
+A yUML use case diagram looks like this:
+
+UML use case diagram
+
+And a class diagram looks like this:
+
+UML class diagram
+
+You might not be a "scruffy lover", so you can do plain ones too:
+
+UML class diagram
+
+There's loads more you can do like adding colour, notes, scaling etc. To learn about that, see the samples or try creating a diagram yourself!
+
+How do I use characters in yUML like # , and ( ?
+
+yUML won't allow certain characters in the diagram definition. So you have to find a unicode character that looks like the standard ASCII one.
+
+You can find those at FileFormat.info.
+
+For example, if you want to use a hash #, then you can see alternative characters on this search result. In this case, the full width number sign ( ＃) looks like a regular hash, and can be used in yUML.
+
+
+For more informations, please visit: https://yuml.me/
