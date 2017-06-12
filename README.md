@@ -6,7 +6,8 @@ Overview
     relationship as well as multiplicity.
     
     We developed a fast and user-friendly software with a startup GUI that guides users through the process 
-    of generating a UML diagram. Our product can run both online(yUML) and offline(Planuml), depending which 
+    of generating a UML diagram utilizing third party API's. Our product can run both online(yUML) and
+    offline(Planuml), depending which 
     option is chosen. More, our program accepts multiple Java source files with multiple classes in it. Our 
     software does not accept jar files, however, there is a description on how to get java source files from 
     jar file in the menu bar.
