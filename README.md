@@ -1,4 +1,7 @@
-Overview
+# JavaUML 
+<img src="https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/main-ui.png" alt="" data-canonical-src="https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/main-ui.png" width="250"/>
+
+## Overview
 
     We designed software that converts Java source code into visual UML class diagram. Our software extracts
     classes, variables, methods, along with their access modifiers from Java code and turns them to usable 
@@ -20,7 +23,7 @@ Overview
     product. However, in the menu bar we included a description on how to manually edit our output.
 
 
-Design
+## Design
 
     Our software follows simple design. First, we have a user-friendly startup GUI with different options 
     such as save, select, apply, etc. Then depending on which options user selected, we pass those parameters 
@@ -35,9 +38,16 @@ Design
     handling our layout. Our software allows user to select where it wants to save the text and png file. 
     Moreover, we save a copy of it in the Java2UML directory.
 
+## Quickstart
 To run compile and run use command:
+```
     ant run
+```
+## Demo
+
+[![](https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/demo-result.png)](https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/demo-result.png)
+ 
+
     
-    
-This project was done by:
+## Contributors
 Feng Liu, Andres Cuevas, and Strahinja Trecakov
