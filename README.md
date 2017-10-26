@@ -1,3 +1,6 @@
+# JavaUML 
+<img src="https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/main-ui.png" alt="" data-canonical-src="https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/main-ui.png" width="250"/>
+
 ## Overview
 
     We designed software that converts Java source code into visual UML class diagram. Our software extracts
@@ -40,7 +43,11 @@ To run compile and run use command:
 ```
     ant run
 ```
-    
+## Demo
+
+[![](https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/demo-result.png)](https://raw.githubusercontent.com/lvncnt/JAVA2UML/master/demo-result.png)
+ 
+
     
 ## Contributors
 Feng Liu, Andres Cuevas, and Strahinja Trecakov
